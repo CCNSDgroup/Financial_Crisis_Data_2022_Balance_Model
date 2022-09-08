@@ -1,4 +1,4 @@
-shifting Day,Covid-19 data,gaussian 
+shifting Day,real data,gaussian 
 -50,0.01,0.001
 -40,1.8,0.01
 -30,2.8,0.9
