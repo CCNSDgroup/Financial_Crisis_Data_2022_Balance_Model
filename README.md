@@ -2,6 +2,7 @@
 This is the repository for Data and results used in the paper (Financial Crisis in the Framework of Non-zero Temperature Balance Theory). The Data have been downloaded from www.yahoofinance.com.
 
 The first folder provides the raw data that includes the time series of all 40 companies that have been selected randomly from distinct industries, in the time periods of 2005 to 2022, in the .csv format. These are the data that have been used in this study and downloaded from www.yahoofinance.com.
+
 The fig-1 folder includes data that the first figure in the paper has plotted based on, the file has two columns the first one is Time ( x-axis values ) and the second one is S&P500 Index (y-axis values).
 In figure 2 in the manuscript, we have plotted the probability distribution of the correlation matrices of stocks. Since we are considering the behavior of stocks in the 4 different periods of time, two near crises Great Recession 2005, COVID-19 Recession, and two far from crises off-crisis 2005, off-crisis 2019, then we have four different correlation matrices that we have plotted the probability distribution of these four matrices. These matrices are available here.
 
